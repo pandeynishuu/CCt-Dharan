@@ -11,7 +11,11 @@
   "devDependencies": {
     "@element-plus/nuxt": "^1.0.5",
     "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.16.19",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "flowbite": "^1.7.0"
   }
 }
